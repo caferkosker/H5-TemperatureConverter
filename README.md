@@ -1,2 +1,2 @@
 # H5-TemperatureConverter
-[]!(temperatureconverter-small.png)
+<img style src="temperatureconverter.png" alt="">
