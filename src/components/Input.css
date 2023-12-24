@@ -1,0 +1,27 @@
+#label1{
+    font-size: 15px;
+    font-weight: lighter;
+
+}
+#fname{
+  width: 70%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 12px;
+}
+.cont{
+  align-items: center;
+  justify-content: space-around;
+}
+
+.btn {
+  margin: 10px;
+  align-items:center; 
+  width: 60px;
+  border-radius: 8px;
+  font-weight: bold;
+}
